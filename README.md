@@ -90,6 +90,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ghz2000thu@gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghz2000thu@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-50fa7b?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cSSGPtsAAAAJ&hl=zh-CN)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenGHz)
 [![Location](https://img.shields.io/badge/📍_Shenzhen-China-bd93f9?style=for-the-badge)](https://github.com/OpenGHz)
 
