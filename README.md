@@ -89,6 +89,7 @@
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-ghz2000thu@gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghz2000thu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenGHz)
 [![Location](https://img.shields.io/badge/📍_Shenzhen-China-bd93f9?style=for-the-badge)](https://github.com/OpenGHz)
 
