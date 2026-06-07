@@ -16,6 +16,16 @@
 
 ---
 
+## 🚀 About Me
+
+I'm a PhD student at **Tsinghua Shenzhen International Graduate School**, working on **embodied AI** and **robot learning**. My research aims to build a **unified framework for robot manipulation** — one that integrates multiple modalities, generalizes across space and time, bridges perception and control, and stays highly robust in the real world.
+
+🔧 Beyond research, I build and open-source practical tooling for the robotics community — data-collection pipelines, URDF/Xacro utilities, ROS development helpers, and ML data loaders.
+
+💬 Always happy to talk about embodied intelligence, robotic manipulation, and turning research into reusable tools.
+
+---
+
 ## 📞 联系我
 
 <div align="center">
