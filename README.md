@@ -86,7 +86,10 @@ I'm a PhD student at **Tsinghua Shenzhen International Graduate School**, workin
 
 | 🗓️ Year | 🏆 Role | 📌 Event |
 |:---:|:---|:---|
+| 2023 – Present | **Teaching Assistant** | *Principles and Experience of Intelligent Block Building* — university-wide general-education course by [Prof. Peng Feng](https://www.civil.tsinghua.edu.cn/ce/info/1130/2380.htm), Tsinghua University |
 | 2024 | **Technical Committee Member** | [Robotic Construction Challenge (RCC) @ IROS 2024](https://air.tsinghua.edu.cn/en/robochallenge/construction/iros2024.html), Abu Dhabi |
+
+🏅 *The block-building course received the **Second Prize of the Teaching Achievement Award** — Dept. of Civil Engineering, Tsinghua University (2025), for "Exploration of a Scenario-based, Experiential, Multidisciplinary Teaching Model".*
 
 </div>
 
