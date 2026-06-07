@@ -85,6 +85,18 @@
 
 ---
 
+## 🎓 Academic Service
+
+<div align="center">
+
+| 🗓️ Year | 🏆 Role | 📌 Event |
+|:---:|:---|:---|
+| 2024 | **Technical Committee Member** | [Robotic Construction Challenge (RCC) @ IROS 2024](https://air.tsinghua.edu.cn/en/robochallenge/construction/iros2024.html), Abu Dhabi |
+
+</div>
+
+---
+
 ## 📞 联系我
 
 <div align="center">
