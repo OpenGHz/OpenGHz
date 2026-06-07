@@ -16,45 +16,30 @@
 
 ---
 
-### 📊 GitHub 统计
+## 📞 联系我
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=OpenGHz&theme=dracula&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=OpenGHz&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+[![Email](https://img.shields.io/badge/Email-ghz2000thu@gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghz2000thu@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-50fa7b?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cSSGPtsAAAAJ&hl=zh-CN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenGHz)
+[![Location](https://img.shields.io/badge/📍_Shenzhen-China-bd93f9?style=for-the-badge)](https://github.com/OpenGHz)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OpenGHz&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-### 🐍 贡献图
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenGHz/OpenGHz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenGHz/OpenGHz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/OpenGHz/OpenGHz/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-## 📊 热门项目
+## 🌟 推荐项目
 
 <div align="center">
 
 | 🌐 项目 | ⭐ Stars | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---|:---:|
-| **Imitate-All** | ⭐ 23 | Imitation Learning Platform For Embodied AI. | [🔗 GitHub](https://github.com/OpenGHz/Imitate-All) |
-| **clash_wsl2_tools** | ⭐ 20 | Proxy config tools that conveniently connect / disconnect WSL2 with your Windows Clash. | [🔗 GitHub](https://github.com/OpenGHz/clash_wsl2_tools) |
-| **URDF2Xacro** | ⭐ 5 | Tools for modifying URDF packages and converting URDF into well-organized Xacro. | [🔗 GitHub](https://github.com/OpenGHz/URDF2Xacro) |
 | **auto-atomic-operation** | ⭐ 4 | A YAML-driven atomic operation framework for robotic manipulation. | [🔗 GitHub](https://github.com/OpenGHz/auto-atomic-operation) |
-| **FILIC** | ⭐ 3 | Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation. | [🔗 GitHub](https://github.com/OpenGHz/FILIC) |
+| **academic-human-in-the-loop** | ⭐ 1 | AHIL — lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. | [🔗 GitHub](https://github.com/OpenGHz/academic-human-in-the-loop) |
+| **AIRBOT-Data-Collection** | ⭐ 1 | AIRDC — config-driven modular Python + MCAP pipeline for collecting multimodal robot data. | [🔗 GitHub](https://github.com/OpenGHz/AIRBOT-Data-Collection) |
+| **embodied-ai-paper-writer** | ⭐ 1 | A portable agent skill for writing top-conference embodied-AI papers, distilled from 63 papers (CoRL/RSS/ICRA/IROS/Science Robotics). | [🔗 GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) |
+| **MCAP-DataLoader** | ⭐ 3 | A Python library for loading & processing MCAP data for ML and robotics training pipelines (with LeRobot integration). | [🔗 GitHub](https://github.com/OpenGHz/MCAP-DataLoader) |
 
 </div>
 
@@ -97,13 +82,28 @@
 
 ---
 
-## 📞 联系我
+## 📊 GitHub 统计
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=OpenGHz&theme=dracula&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-ghz2000thu@gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghz2000thu@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-50fa7b?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cSSGPtsAAAAJ&hl=zh-CN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenGHz)
-[![Location](https://img.shields.io/badge/📍_Shenzhen-China-bd93f9?style=for-the-badge)](https://github.com/OpenGHz)
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=OpenGHz&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OpenGHz&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 贡献图
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenGHz/OpenGHz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenGHz/OpenGHz/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/OpenGHz/OpenGHz/output/github-snake-dark.svg" />
+  </picture>
+</p>
