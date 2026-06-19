@@ -48,8 +48,21 @@ I'm a PhD student at **Tsinghua Shenzhen International Graduate School**, workin
 | **auto-atomic-operation** | ⭐ 4 | A YAML-driven atomic operation framework for robotic manipulation. | [🔗 GitHub](https://github.com/OpenGHz/auto-atomic-operation) |
 | **academic-human-in-the-loop** | ⭐ 1 | AHIL — lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. | [🔗 GitHub](https://github.com/OpenGHz/academic-human-in-the-loop) |
 | **AIRBOT-Data-Collection** | ⭐ 1 | AIRDC — config-driven modular Python + MCAP pipeline for collecting multimodal robot data. | [🔗 GitHub](https://github.com/OpenGHz/AIRBOT-Data-Collection) |
-| **embodied-ai-paper-writer** | ⭐ 1 | A portable agent skill for writing top-conference embodied-AI papers, distilled from 63 papers (CoRL/RSS/ICRA/IROS/Science Robotics). | [🔗 GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) |
 | **MCAP-DataLoader** | ⭐ 3 | A Python library for loading & processing MCAP data for ML and robotics training pipelines (with LeRobot integration). | [🔗 GitHub](https://github.com/OpenGHz/MCAP-DataLoader) |
+
+</div>
+
+---
+
+## 🧩 Agent Skills
+
+<div align="center">
+
+| 🧩 Skill | ⭐ Stars | 📝 描述 | 🔗 链接 |
+|:---:|:---:|:---|:---:|
+| **AgentSkills** | ⭐ 1 | A collection of custom agent skills. | [🔗 GitHub](https://github.com/OpenGHz/AgentSkills) |
+| **embodied-ai-paper-writer** | ⭐ 1 | A portable agent skill for writing top-conference embodied-AI papers, distilled from 63 papers (CoRL/RSS/ICRA/IROS/Science Robotics). | [🔗 GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) |
+| **record-usage-issues** | ⭐ 0 | An opt-in agent skill that logs the friction & bugs users hit into a triage-ready AGENT_ISSUES.md. | [🔗 GitHub](https://github.com/OpenGHz/record-usage-issues) |
 
 </div>
 
