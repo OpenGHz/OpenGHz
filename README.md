@@ -45,10 +45,10 @@ I'm a PhD student at **Tsinghua Shenzhen International Graduate School**, workin
 
 | 🌐 项目 | ⭐ Stars | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---|:---:|
-| **auto-atomic-operation** | ⭐ 4 | A YAML-driven atomic operation framework for robotic manipulation. | [🔗 GitHub](https://github.com/OpenGHz/auto-atomic-operation) |
-| **academic-human-in-the-loop** | ⭐ 1 | AHIL — lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. | [🔗 GitHub](https://github.com/OpenGHz/academic-human-in-the-loop) |
-| **AIRBOT-Data-Collection** | ⭐ 1 | AIRDC — config-driven modular Python + MCAP pipeline for collecting multimodal robot data. | [🔗 GitHub](https://github.com/OpenGHz/AIRBOT-Data-Collection) |
-| **MCAP-DataLoader** | ⭐ 3 | A Python library for loading & processing MCAP data for ML and robotics training pipelines (with LeRobot integration). | [🔗 GitHub](https://github.com/OpenGHz/MCAP-DataLoader) |
+| **auto-atomic-operation** | [![Stars](https://img.shields.io/github/stars/OpenGHz/auto-atomic-operation?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/auto-atomic-operation/stargazers) | A YAML-driven atomic operation framework for robotic manipulation. | [🔗 GitHub](https://github.com/OpenGHz/auto-atomic-operation) |
+| **academic-human-in-the-loop** | [![Stars](https://img.shields.io/github/stars/OpenGHz/academic-human-in-the-loop?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/academic-human-in-the-loop/stargazers) | AHIL — lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. | [🔗 GitHub](https://github.com/OpenGHz/academic-human-in-the-loop) |
+| **AIRBOT-Data-Collection** | [![Stars](https://img.shields.io/github/stars/OpenGHz/AIRBOT-Data-Collection?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/AIRBOT-Data-Collection/stargazers) | AIRDC — config-driven modular Python + MCAP pipeline for collecting multimodal robot data. | [🔗 GitHub](https://github.com/OpenGHz/AIRBOT-Data-Collection) |
+| **MCAP-DataLoader** | [![Stars](https://img.shields.io/github/stars/OpenGHz/MCAP-DataLoader?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/MCAP-DataLoader/stargazers) | A Python library for loading & processing MCAP data for ML and robotics training pipelines (with LeRobot integration). | [🔗 GitHub](https://github.com/OpenGHz/MCAP-DataLoader) |
 
 </div>
 
@@ -60,11 +60,11 @@ I'm a PhD student at **Tsinghua Shenzhen International Graduate School**, workin
 
 | 🧩 Skill | ⭐ Stars | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---|:---:|
-| **AgentSkills** | ⭐ 1 | A collection of custom agent skills. | [🔗 GitHub](https://github.com/OpenGHz/AgentSkills) |
-| **embodied-ai-paper-writer** | ⭐ 1 | A portable agent skill for writing top-conference embodied-AI papers, distilled from 63 papers (CoRL/RSS/ICRA/IROS/Science Robotics). | [🔗 GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) |
-| **record-usage-issues** | ⭐ 0 | An opt-in agent skill that logs the friction & bugs users hit into a triage-ready AGENT_ISSUES.md. | [🔗 GitHub](https://github.com/OpenGHz/record-usage-issues) |
-| **npx-skill-install** | ⭐ 1 | Install agent skills once across all your AI agents via a shared skills hub (`npx skills`). | [🔗 GitHub](https://github.com/OpenGHz/npx-skill-install) |
-| **open-source-project-polish** | ⭐ 1 | An agent skill that turns any project folder into a polished, publish-ready open-source repo — without touching your source code. | [🔗 GitHub](https://github.com/OpenGHz/open-source-project-polish) |
+| **AgentSkills** | [![Stars](https://img.shields.io/github/stars/OpenGHz/AgentSkills?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/AgentSkills/stargazers) | A collection of custom agent skills. | [🔗 GitHub](https://github.com/OpenGHz/AgentSkills) |
+| **embodied-ai-paper-writer** | [![Stars](https://img.shields.io/github/stars/OpenGHz/embodied-ai-paper-writer?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/embodied-ai-paper-writer/stargazers) | A portable agent skill for writing top-conference embodied-AI papers, distilled from 63 papers (CoRL/RSS/ICRA/IROS/Science Robotics). | [🔗 GitHub](https://github.com/OpenGHz/embodied-ai-paper-writer) |
+| **record-usage-issues** | [![Stars](https://img.shields.io/github/stars/OpenGHz/record-usage-issues?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/record-usage-issues/stargazers) | An opt-in agent skill that logs the friction & bugs users hit into a triage-ready AGENT_ISSUES.md. | [🔗 GitHub](https://github.com/OpenGHz/record-usage-issues) |
+| **npx-skill-install** | [![Stars](https://img.shields.io/github/stars/OpenGHz/npx-skill-install?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/npx-skill-install/stargazers) | Install agent skills once across all your AI agents via a shared skills hub (`npx skills`). | [🔗 GitHub](https://github.com/OpenGHz/npx-skill-install) |
+| **open-source-project-polish** | [![Stars](https://img.shields.io/github/stars/OpenGHz/open-source-project-polish?style=flat&logo=github&label=Stars&color=f1fa8c)](https://github.com/OpenGHz/open-source-project-polish/stargazers) | An agent skill that turns any project folder into a polished, publish-ready open-source repo — without touching your source code. | [🔗 GitHub](https://github.com/OpenGHz/open-source-project-polish) |
 
 </div>
 
